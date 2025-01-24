@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957944593804",
+    "project_id": "advance-airline-413323",
+    "storage_bucket": "advance-airline-413323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957944593804:android:31d1c42906c51ddaeceaa9",
+        "android_client_info": {
+          "package_name": "com.example.appnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIIHxhIoh6M3LxBiKSJC8M9HrZL9hISQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
