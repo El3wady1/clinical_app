@@ -1,16 +1,28 @@
-# appnote
+# clinical app
+** عيادة أونلاين
+احجز و ابعت استشارتك اونلاين
 
-A new Flutter project.
+يتيح تطبيق العيادة الأونلاين للمرضى حجز مواعيد مع الدكتور في أي وقت يناسبهم.
 
-## Getting Started
+يمكن للمرضى التواصل مع الدكتور عبر الدردشة المباشرة في التطبيق للحصول على استشارات سريعة.
 
-This project is a starting point for a Flutter application.
+تتمتع استشارات الدكتور عبر التطبيق بمستوى عالٍ من الخصوصية والأمان.
 
-A few resources to get you started if this is your first Flutter project:
+يمكن للمستخدمين متابعة حالتهم الصحية مع الدكتور من خلال تقييم الأعراض والتقارير الطبية.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+يساعد تطبيق العيادة الأونلاين الدكتور على إدارة مواعيده وتقديم رعاية أفضل للمرضى.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+يساعد تطبيق العيادة الأونلاين علي تتبع العيادة اونلاين عن طريق الخريطة.
+
+يساعد تطبيق العيادة الأونلاين حجز وارسال استشارتك اونلاين.
+
+يساعد تطبيق العيادة الأونلاين علي ارسال شكوتك للدكتور ويصلك تشخيص قي الحال.
+
+يساعد تطبيق العيادة الأونلاين علي اخذ ميعاد اونلاين باليوم والتاريخ والساعه.
+
+the Latest Version 1.0.0
+Last updated on Jan 9, 2025
+
+حجز اونلاين - تقديم استشارتك - تتبع موقع العيادة علي الخريطة
+view App in apkpure store:
+https://apkpure.com/p/com.example.appnote
